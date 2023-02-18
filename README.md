@@ -40,8 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 <div align="right">
-  ### :fire: My Stats : 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salah-boutayeb&theme=dark&background=000000)](https://git.io/streak-stats)
+  ### :fire: My Stats : [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salah-boutayeb&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![](https://raw.githubusercontent.com/Salah-boutayeb/Salah-boutayeb/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Salah-boutayeb/Salah-boutayeb/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Salah-boutayeb/Salah-boutayeb/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
