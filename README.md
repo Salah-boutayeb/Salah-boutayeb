@@ -12,7 +12,8 @@
 - :zap: In my free time, I solve problems, build apps and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Salah_Eddine_Boutayeb-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salah-eddine-boutayeb/)
-### :fire: My Stats : [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salah-boutayeb&theme=dark&background=000000)(https://git.io/streakstats)
+### :fire: My Stats : 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salah-boutayeb&theme=dark&background=000000)(https://git.io/streakstats)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
