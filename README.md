@@ -11,8 +11,8 @@
 
 - :zap: In my free time, I solve problems, build apps and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salah-eddine-boutayeb/)
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SalahEddine_Boutayeb-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salah-eddine-boutayeb/)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <div>
