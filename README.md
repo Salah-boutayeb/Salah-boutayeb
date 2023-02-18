@@ -11,9 +11,8 @@
 
 - :zap: In my free time, I solve problems, build apps and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-### :fire: My Stats : 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salah-boutayeb&theme=dark&background=000000)](https://git.io/streak-stats)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salah-eddine-boutayeb/)
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <div>
@@ -41,6 +40,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+### :fire: My Stats : 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salah-boutayeb&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![](https://raw.githubusercontent.com/Salah-boutayeb/Salah-boutayeb/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Salah-boutayeb/Salah-boutayeb/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Salah-boutayeb/Salah-boutayeb/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
