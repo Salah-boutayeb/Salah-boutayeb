@@ -48,7 +48,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Salah-boutayeb&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire: My Stats : [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Salah-boutayeb&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **Salah-boutayeb/Salah-boutayeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
