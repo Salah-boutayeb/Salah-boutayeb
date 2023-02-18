@@ -22,8 +22,8 @@
 - :zap: In my free time, I solve problems, build apps and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-### :fire: My Stats : [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salah-boutayeb&theme=dark&background=000000)](https://git.io/streak-stats)
-- 
+### :fire: My Stats : 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salah-boutayeb&theme=dark&background=000000)](https://git.io/streak-stats)
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <div>
